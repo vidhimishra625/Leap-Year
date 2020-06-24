@@ -1,2 +1,2 @@
 # Vidhi-Mishra-GirlScript-Assignments-
-This is my GirlScript Assignment Repository.
+This is my GirlScript Assignments' Repository.
