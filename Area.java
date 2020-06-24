@@ -7,13 +7,13 @@ public class ProgramArea
         System.out.println(area(5.0,4.0));
         System.out.println(area(-1.0,4.0));
     }
-    public static double area(double r)
+    public static double area(double radius)
     {
         double PI=Math.PI;
         double a;
-        if(r>=0)
+        if(radius>=0)
         {
-            a=r*r*PI;
+            a=radius*radius*PI;
             return a;
         }
         else
