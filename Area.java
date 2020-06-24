@@ -1,4 +1,4 @@
-public class Program 
+public class ProgramArea 
 {
     public static void main(String[] args)
     {
