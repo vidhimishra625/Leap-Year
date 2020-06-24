@@ -1,4 +1,4 @@
-public class LeapYear 
+public class EqualSum 
 {
     public static boolean hasEqualSum(int num1, int num2, int num3)
     {
